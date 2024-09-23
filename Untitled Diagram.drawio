@@ -15,7 +15,7 @@
             <mxPoint x="4" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux1TDay7jxKqDuDctKWS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-2" target="ux1TDay7jxKqDuDctKWS-18">
+        <mxCell id="ux1TDay7jxKqDuDctKWS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-2" target="ux1TDay7jxKqDuDctKWS-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ux1TDay7jxKqDuDctKWS-2" value="&lt;div style=&quot;padding-left: 0px; padding-bottom: 0px;&quot; align=&quot;left&quot;&gt;UDM Pro&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/firewall.svg;" vertex="1" parent="1">
@@ -42,9 +42,9 @@
           <mxGeometry x="400" y="480" width="125.5" height="290" as="geometry" />
         </mxCell>
         <mxCell id="ux1TDay7jxKqDuDctKWS-18" value="vlan 1 : default" style="fillColor=none;strokeColor=#000000;verticalAlign=top;fontStyle=0;whiteSpace=wrap;html=1;dashed=1;glass=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="480" width="120" height="290" as="geometry" />
+          <mxGeometry x="60" y="480" width="120" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="ux1TDay7jxKqDuDctKWS-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-17" target="ux1TDay7jxKqDuDctKWS-2">
+        <mxCell id="ux1TDay7jxKqDuDctKWS-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;endFill=1;strokeColor=#663300;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-17" target="ux1TDay7jxKqDuDctKWS-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="460" as="sourcePoint" />
             <mxPoint x="400" y="410" as="targetPoint" />
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux1TDay7jxKqDuDctKWS-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-16" target="ux1TDay7jxKqDuDctKWS-2">
+        <mxCell id="ux1TDay7jxKqDuDctKWS-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;endFill=1;strokeColor=#33FF33;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-16" target="ux1TDay7jxKqDuDctKWS-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="380" as="sourcePoint" />
             <mxPoint x="610" y="330" as="targetPoint" />
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux1TDay7jxKqDuDctKWS-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-15" target="ux1TDay7jxKqDuDctKWS-2">
+        <mxCell id="ux1TDay7jxKqDuDctKWS-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;endFill=1;strokeColor=#FF6666;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-15" target="ux1TDay7jxKqDuDctKWS-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="380" as="sourcePoint" />
             <mxPoint x="510" y="330" as="targetPoint" />
@@ -73,6 +73,16 @@
               <mxPoint x="351" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ux1TDay7jxKqDuDctKWS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-24" target="ux1TDay7jxKqDuDctKWS-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ux1TDay7jxKqDuDctKWS-24" value="sophos NG" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/firewall.svg;" vertex="1" parent="1">
+          <mxGeometry x="880" y="310" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
