@@ -18,9 +18,6 @@
         <mxCell id="ux1TDay7jxKqDuDctKWS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-2" target="ux1TDay7jxKqDuDctKWS-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ux1TDay7jxKqDuDctKWS-2" value="&lt;div style=&quot;padding-left: 0px; padding-bottom: 0px;&quot; align=&quot;left&quot;&gt;UDM Pro&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/firewall.svg;" vertex="1" parent="1">
-          <mxGeometry x="294" y="310" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ux1TDay7jxKqDuDctKWS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-11" target="ux1TDay7jxKqDuDctKWS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -66,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ux1TDay7jxKqDuDctKWS-24" value="sophos NG" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/firewall.svg;" vertex="1" parent="1">
+        <mxCell id="ux1TDay7jxKqDuDctKWS-24" value="sophos NG" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/firewall.svg;imageBorder=none;direction=east;" vertex="1" parent="1">
           <mxGeometry x="880" y="310" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ux1TDay7jxKqDuDctKWS-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#33FF33;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-2" target="ux1TDay7jxKqDuDctKWS-16">
@@ -89,6 +86,9 @@
             <mxPoint x="1010" y="450" as="sourcePoint" />
             <mxPoint x="1060" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ux1TDay7jxKqDuDctKWS-2" value="&lt;div style=&quot;padding-left: 0px; padding-bottom: 0px;&quot; align=&quot;left&quot;&gt;UDM Pro&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=left;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/firewall.svg;" vertex="1" parent="1">
+          <mxGeometry x="294" y="310" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
