@@ -4,6 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ux1TDay7jxKqDuDctKWS-1" value="&lt;div&gt;freebox&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/vpc/Router.svg;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1TDay7jxKqDuDctKWS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-2" target="ux1TDay7jxKqDuDctKWS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1TDay7jxKqDuDctKWS-8" value="192.168.1.0&lt;br&gt;10G" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ux1TDay7jxKqDuDctKWS-7">
+          <mxGeometry x="0.1091" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ux1TDay7jxKqDuDctKWS-2" value="UDM Pro" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/firewall.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1TDay7jxKqDuDctKWS-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ux1TDay7jxKqDuDctKWS-11" target="ux1TDay7jxKqDuDctKWS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ux1TDay7jxKqDuDctKWS-13" value="&lt;span class=&quot;tooltip&quot;&gt;&lt;/span&gt;&amp;nbsp; &lt;span id=&quot;ipv4&quot; class=&quot;address&quot;&gt;82.66.124.118&lt;/span&gt;&lt;br&gt;8G" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ux1TDay7jxKqDuDctKWS-12">
+          <mxGeometry x="0.0297" y="-1" relative="1" as="geometry">
+            <mxPoint x="-8" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ux1TDay7jxKqDuDctKWS-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="284" width="69" height="72" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
